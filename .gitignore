@@ -1,0 +1,31 @@
+# Ambientes virtuais Python
+venv/
+env/
+fastapi-env/
+
+# Cache e arquivos compilados Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Bancos de dados locais
+*.db
+
+# Arquivos de IDEs/editors
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de testes
+.coverage
+htmlcov/
+pytest_cache/
+
+# Arquivos de log
+*.log
